@@ -1,5 +1,5 @@
 ---
-title: "Apple Vision Pro & the Era of Humane Computing"
+title: "Apple Vision Pro and the Era of Humane Computing"
 description: "Is Apple Vision Pro the Vanguard of the Era of Humane Computing?"
 date: 2023-08-21
 ---
