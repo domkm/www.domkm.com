@@ -5,6 +5,14 @@
 [goldmark.renderer]
   unsafe = true
 
+[goldmark.parser]
+  autoHeadingID = true
+  autoHeadingIDType = 'github'
+  wrapStandAloneImageWithinParagraph = true
+  [goldmark.parser.attribute]
+    block = true
+    title = true
+
 [highlight]
   noClasses = false
 
